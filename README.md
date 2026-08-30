@@ -60,6 +60,7 @@ malicious_prompt = (
 
 ## Phase 3: Hardened RBAC & Audit Architecture
 [View Phase 3 Final Output Screenshot](Screenshots/Phase3-finaloutput.png)
+
 To secure the application, a hard-coded access control layer was engineered. The system intercepts the request, verifies the user's role against the document's classification, and logs the transaction before the AI is initialized.
 
 ### Core Security Controls Implemented
