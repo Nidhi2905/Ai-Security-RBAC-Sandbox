@@ -1,0 +1,4 @@
+[2026-08-29 18:37:59] User: emp_nidhi_01 | Role: employee | Action: Read confidential_hr_salaries | Status: DENIED - Privilege Escalation Attempt
+[2026-08-29 18:53:11] User: admin_nidhi_01 | Role: admin | Action: Read confidential_hr_salaries | Status: GRANTED
+[2026-08-29 18:59:08] User: emp_nidhi_01 | Role: employee | Action: Read confidential_hr_salaries | Status: DENIED - Unauthorized Privilege Escalation
+[2026-08-29 18:59:08] User: admin_nidhi_01 | Role: admin | Action: Read confidential_hr_salaries | Status: GRANTED

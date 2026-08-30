@@ -1,0 +1,12 @@
+{
+  "public_marketing_plan": {
+    "classification": "Public",
+    "required_role": "employee",
+    "content": "We are launching the new product in Q4. The marketing budget is approved for social media campaigns."
+  },
+  "confidential_hr_salaries": {
+    "classification": "Top Secret",
+    "required_role": "admin",
+    "content": "CEO Salary: £250,000. Planned layoffs for Q3 involve the customer success team."
+  }
+}
