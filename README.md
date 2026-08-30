@@ -68,7 +68,7 @@ To secure the application, a hard-coded access control layer was engineered. The
 * **Context Isolation:** The LLM is only fed the specific data partition the user is authorized to view.
 * **Forensic Audit Logging:** Every transaction generates a timestamped ITGC record (Granted or Denied) for SOC monitoring.
 
-*(The final hardened architecture is available in `[app.py](app.py)`)*
+*[View the complete secure app.py source code here](app.py)*
 
 ## Technology Stack
 * **Language:** Python 3
