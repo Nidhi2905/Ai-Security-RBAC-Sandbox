@@ -8,6 +8,7 @@ When AI assistants are integrated with internal corporate databases, they often 
 ---
 
 ## Phase 1: The Vulnerable Baseline
+![Phase 1](Screenshots/Phase1.png)
 The initial architecture loaded a mock corporate database (`database.json`) directly into the LLM's system instructions without verifying the user's identity. 
 
 ```python
